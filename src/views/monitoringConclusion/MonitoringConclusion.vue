@@ -2222,12 +2222,10 @@
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 1920 1080"
         >
-
           <g
             v-if="isShowingEcomapper"
             id="Ecomapper"
           >
-
             <g id="Ecomapper">
               <g
                 id="Ecomapper-arrow"
@@ -3603,10 +3601,10 @@ fill:#f8f8f8;
   color: white;
 }
 
-#app h2.monitoring-title {
+#app h3.monitoring-title {
   font-family: chantal, sans-serif;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 1.5em;
   color: black;
 }
 
